@@ -1,0 +1,5 @@
+﻿  Database.cpp
+  test9.cpp
+  Generating Code...
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Labs\Lab 2\BSTree.cpp(377): warning C4715: 'BSTree<TestData,int>::removeHelper': not all control paths return a value
+  Lab 2.vcxproj -> C:\Users\Manra\Documents\Winter 2021\CSC 2201\Labs\Lab 2\Debug\Lab 2.exe

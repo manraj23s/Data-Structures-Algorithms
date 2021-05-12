@@ -1,0 +1,12 @@
+﻿  Lab 1.cpp
+  Text.cpp
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 1\Text.cpp(25,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 1\Text.cpp(20,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 1\Text.cpp(39,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 1\Text.cpp(56,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+  Textio.cpp
+  Generating Code...
+  Lab 1.vcxproj -> C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 1\Debug\Lab 1.exe
