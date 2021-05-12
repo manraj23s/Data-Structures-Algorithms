@@ -1,0 +1,5 @@
+﻿  TestPlan1Table.cpp
+  TestPlan2Login.cpp
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 5\TestPlan2Login.cpp(116,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab 5.vcxproj -> C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 5\Debug\Lab 5.exe

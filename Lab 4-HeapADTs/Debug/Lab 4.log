@@ -1,0 +1,9 @@
+﻿  Lab11HeapTest1.cpp
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 4\BaseHeap.h(44,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 4\BaseHeap.h(71): message : see reference to class template instantiation 'BaseHeap<TypeOfData,TypeOfKey,Comparator>' being compiled
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 4\BaseHeap.h(46,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 4\BaseHeap.cpp(91,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 4\BaseHeap.cpp(293,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  SimulationEx1Test2.cpp
+  Generating Code...
+  Lab 4.vcxproj -> C:\Users\Manra\Documents\Winter 2021\CSC 2201\Lab Code\Lab 4\Debug\Lab 4.exe
